@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-09_2336",
-    "currentPage": "index.html",
+    "currentPage": "servicios.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -97,7 +97,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
@@ -407,7 +407,8 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "32px"
             }
           },
           "_anchor": "header1-r"
@@ -1165,7 +1166,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#1abc9c",
+            "bgColor": "#2c2c2c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
