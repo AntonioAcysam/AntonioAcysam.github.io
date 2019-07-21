@@ -25,149 +25,6 @@
     "google-analytics": ""
   },
   "pages": {
-    "index.html": {
-      "settings": {
-        "main": true,
-        "title": "Inicio",
-        "meta_descr": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida por padres preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": false,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"mapa.html\" data-toolbar=\"-mbrBtnMove\">MAPA</a></li>",
-          "_tags": [
-            "Tema"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "30px"
-            }
-          },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">ACTIVIDADES</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Acysam",
-              "link": "page5.html#header1-p",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACYSAM</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-5"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20180705-91636-2000x972.jpeg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": 0.5
-          },
-          "title": "QUE ES ACYSAM?",
-          "text": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida en 1993 por unos padres muy preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega.<br>Esta Entidad inauguró dos aulas de Educación Especial en 1972 para acoger a niños con disfunciones físicas y/o psíquicas y/o sensoriales, ya que la Administración aún no cubría todas las necesidades.",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"contacto.html\" data-toolbar=\"-mbrBtnMove\">Quieres saber mas?</a>",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-7",
-          "_styles": {
-            "H1": {
-              "text-align": "left",
-              "font-size": "30px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "online.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"page8.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" target=\"_blank\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
-          "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-s"
-        }
-      ]
-    },
     "servicios.html": {
       "settings": {
         "title": "Servicios",
@@ -213,7 +70,7 @@
               "font-size": "30px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">ACTIVIDADES</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -300,7 +157,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"page8.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" target=\"_blank\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong><a href=\"lacaixa.html\">COLABORACIONES</a></strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"lacaixa.html\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
@@ -356,7 +213,7 @@
               "font-size": "30px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">ACTIVIDADES</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -442,7 +299,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"page8.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" target=\"_blank\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong><a href=\"lacaixa.html\">COLABORACIONES</a></strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"lacaixa.html\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
@@ -498,7 +355,7 @@
               "font-size": "30px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">ACTIVIDADES</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -584,7 +441,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"page8.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" target=\"_blank\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong><a href=\"lacaixa.html\">COLABORACIONES</a></strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"lacaixa.html\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
@@ -640,7 +497,7 @@
               "font-size": "30px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">ACTIVIDADES</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -790,7 +647,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"page8.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" target=\"_blank\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong><a href=\"lacaixa.html\">COLABORACIONES</a></strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"lacaixa.html\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
@@ -846,7 +703,7 @@
               "font-size": "30px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">ACTIVIDADES</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -975,7 +832,7 @@
               "font-size": "30px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">ACTIVIDADES</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1041,7 +898,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"page8.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" target=\"_blank\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong><a href=\"lacaixa.html\">COLABORACIONES</a></strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"lacaixa.html\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
@@ -1052,7 +909,7 @@
         }
       ]
     },
-    "page7.html": {
+    "ctividades.html": {
       "settings": {
         "title": "Actividades",
         "meta_descr": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida por padres preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega",
@@ -1097,7 +954,7 @@
               "font-size": "30px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">ACTIVIDADES</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1215,7 +1072,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"page8.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" target=\"_blank\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong><a href=\"lacaixa.html\">COLABORACIONES</a></strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"lacaixa.html\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
@@ -1226,7 +1083,7 @@
         }
       ]
     },
-    "page8.html": {
+    "lacaixa.html": {
       "settings": {
         "title": "lacaixa",
         "meta_descr": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida por padres preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega",
@@ -1271,7 +1128,7 @@
               "font-size": "30px"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">ACTIVIDADES</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1390,7 +1247,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"page8.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" target=\"_blank\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong><a href=\"lacaixa.html\">COLABORACIONES</a></strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"lacaixa.html\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
@@ -1398,6 +1255,149 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-v"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Inicio",
+        "meta_descr": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida por padres preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"mapa.html\" data-toolbar=\"-mbrBtnMove\">MAPA</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Acysam",
+              "link": "page5.html#header1-p",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACYSAM</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-5"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20180705-91636-2000x972.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "QUE ES ACYSAM?",
+          "text": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida en 1993 por unos padres muy preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega.<br>Esta Entidad inauguró dos aulas de Educación Especial en 1972 para acoger a niños con disfunciones físicas y/o psíquicas y/o sensoriales, ya que la Administración aún no cubría todas las necesidades.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"contacto.html\" data-toolbar=\"-mbrBtnMove\">Quieres saber mas?</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-7",
+          "_styles": {
+            "H1": {
+              "text-align": "left",
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "online.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong><a href=\"lacaixa.html\">COLABORACIONES</a></strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"lacaixa.html\" class=\"text-gray\">Ayuntamiento de Reocín</a><br><br>",
+          "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-s"
         }
       ]
     }
