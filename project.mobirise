@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-09_2336",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -41,7 +41,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -74,13 +74,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Acysam",
               "link": "page5.html#header1-p",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -184,7 +183,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -217,7 +216,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Acysam",
@@ -326,7 +325,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -359,7 +358,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Acysam",
@@ -468,7 +467,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -501,7 +500,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Acysam",
@@ -610,7 +609,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -643,7 +642,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Acysam",
@@ -816,7 +815,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -849,7 +848,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Acysam",
@@ -945,7 +944,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -978,7 +977,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Acysam",
@@ -1067,7 +1066,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -1100,7 +1099,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Acysam",
@@ -1241,7 +1240,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -1274,7 +1273,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Acysam",
