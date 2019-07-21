@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-09_2336",
-    "currentPage": "servicios.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1347,7 +1347,7 @@
             "overlayOpacity": 0.5
           },
           "title": "QUE ES ACYSAM?",
-          "text": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida en 1993 por unos padres muy preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega.<br>Esta Entidad inauguró dos aulas de Educación Especial en 1972 para acoger a niños con disfunciones físicas y/o psíquicas y/o sensoriales, ya que la Administración aún no cubría todas las necesidades.",
+          "text": "Asociación de Centros y Servicios de Atención al Minusválido, constituida en 1993 por unos padres preocupados por la calidad de vida y el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega.<br>Esta Entidad inauguró dos aulas de Educación Especial en 1972 para acoger a niños con disfunciones físicas y/o psíquicas y/o sensoriales.",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"contacto.html\" data-toolbar=\"-mbrBtnMove\">Quieres saber mas?</a>",
           "_tags": [
             "Tema"
