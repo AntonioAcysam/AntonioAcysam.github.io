@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-09_2336",
-    "currentPage": "index.html",
+    "currentPage": "servicios.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "uniqCompNum": 29,
+    "uniqCompNum": 32,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -101,7 +101,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20180705-91636-2000x972.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20180705-91637-2000x972.jpeg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -114,7 +114,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Fines y Ambito",
-          "text": "Promover la creación de centros y servicios para la atencion a los minusválidos.<br>Impulsar la intervención pública en la mejora de los servicios necesarios.<br>Colaborar en la financiación de los mismos directamente o mediante la captación de ayudas de otras personas o entidades.<br>Servir de mediador permanente entre la Fundación Asilo de Torrelavega, titular de centros y servicios de atención a minusvalidos y los padres o tutores de las personas atendidas por ellos.<br>Promover y facilitar actividades culturales y artisticas.<br>Fomentar actividades de tiempo libre.<br><br>",
+          "text": "Promover la creación de centros y servicios para la atencion a personas con diversidad funcional.<br>Impulsar la intervención pública en la mejora de los servicios necesarios.<br>Colaborar en la financiación de los mismos directamente o mediante la captación de ayudas de otras personas o entidades.<br>Servir de mediador permanente entre la Fundación Asilo de Torrelavega, titular de centros y servicios de atención a minusvalidos y los padres o tutores de las personas atendidas por ellos.<br>Promover y facilitar actividades culturales y artisticas.<br>Fomentar actividades de tiempo libre.<br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Quieres saber mas?</a>",
           "_tags": [
             "Tema"
@@ -143,13 +143,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/descarga-265x129.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "online.html",
+              "link": "lacaixa.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -157,9 +158,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><a href=\"http://www.fundacionasilo.com/\" class=\"text-gray\">Fundación Asilo Torrelavega</a><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\"><br></a><a href=\"page9.html\" class=\"text-gray\">Como colaborar</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
             "Tema"
           ],
@@ -175,7 +176,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -285,13 +286,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/descarga-265x129.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "online.html",
+              "link": "lacaixa.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -299,9 +301,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><a href=\"http://www.fundacionasilo.com/\" class=\"text-gray\">Fundación Asilo Torrelavega</a><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\"><br></a><a href=\"page9.html\" class=\"text-gray\">Como colaborar</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
             "Tema"
           ],
@@ -317,7 +319,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -428,13 +430,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/descarga-265x129.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "online.html",
+              "link": "lacaixa.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -442,9 +445,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><a href=\"http://www.fundacionasilo.com/\" class=\"text-gray\">Fundación Asilo Torrelavega</a><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\"><br></a><a href=\"page9.html\" class=\"text-gray\">Como colaborar</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
             "Tema"
           ],
@@ -460,7 +463,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -634,13 +637,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/descarga-265x129.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "online.html",
+              "link": "lacaixa.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -648,9 +652,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><a href=\"http://www.fundacionasilo.com/\" class=\"text-gray\">Fundación Asilo Torrelavega</a><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\"><br></a><a href=\"page9.html\" class=\"text-gray\">Como colaborar</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
             "Tema"
           ],
@@ -666,7 +670,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -795,7 +799,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -885,13 +889,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/descarga-265x129.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "online.html",
+              "link": "lacaixa.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -899,9 +904,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><a href=\"http://www.fundacionasilo.com/\" class=\"text-gray\">Fundación Asilo Torrelavega</a><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\"><br></a><a href=\"page9.html\" class=\"text-gray\">Como colaborar</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
             "Tema"
           ],
@@ -917,7 +922,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1059,13 +1064,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/descarga-265x129.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "online.html",
+              "link": "lacaixa.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1073,9 +1079,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><a href=\"http://www.fundacionasilo.com/\" class=\"text-gray\">Fundación Asilo Torrelavega</a><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\"><br></a><a href=\"page9.html\" class=\"text-gray\">Como colaborar</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
             "Tema"
           ],
@@ -1091,7 +1097,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1234,13 +1240,14 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/descarga-265x129.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "online.html",
+              "link": "lacaixa.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1248,9 +1255,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><a href=\"http://www.fundacionasilo.com/\" class=\"text-gray\">Fundación Asilo Torrelavega</a><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\"><br></a><a href=\"page9.html\" class=\"text-gray\">Como colaborar</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
             "Tema"
           ],
@@ -1347,7 +1354,7 @@
             "overlayOpacity": 0.5
           },
           "title": "QUE ES ACYSAM?",
-          "text": "Asociación de Centros y Servicios de Atención al Minusválido, constituida en 1993 por unos padres preocupados por la calidad de vida y el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega.<br>Esta Entidad inauguró dos aulas de Educación Especial en 1972 para acoger a niños con disfunciones físicas y/o psíquicas y/o sensoriales.",
+          "text": "ACYSAM es una asociación de padres, sin ánimo de lucro, fundada en 1993,  con hijos afectados por una diversidad funcional, que son usuarios del C.E.E. Fernando Arce de Torrelavega, dependiente y al amparo de la Fundación Asilo.\n<br>\n<br>Su objetivo es doble: comunicar a la sociedad las necesidades de nuestros hijos, buscando las posibles soluciones que palíen sus carencias y normalizar su inclusión en ella.&nbsp;<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"contacto.html\" data-toolbar=\"-mbrBtnMove\">Quieres saber mas?</a>",
           "_tags": [
             "Tema"
@@ -1376,11 +1383,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logogob-125x91.jpg",
+              "src": "@PROJECT_PATH@/assets/images/descarga-265x129.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "online.html",
+              "link": "lacaixa.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1391,14 +1398,158 @@
               "size": 0
             }
           },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><br>",
+          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><a href=\"http://www.fundacionasilo.com/\" class=\"text-gray\">Fundación Asilo Torrelavega</a><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\"><br></a><a href=\"page9.html\" class=\"text-gray\">Como colaborar</a><br><br>",
           "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.fundacionasilo.com/\" target=\"_blank\" class=\"text-gray\">Fundación Asilo Torrelavega</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
           "_tags": [
             "Tema"
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-s"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "title": "colaborar",
+        "meta_descr": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida por padres preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"mapa.html\" data-toolbar=\"-mbrBtnMove\">MAPA</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Acysam",
+              "link": "page5.html#header1-p",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACYSAM</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-t"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20180705-91637-2000x972.jpeg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Colaborar",
+          "text": "La principal forma de colaborar es pagando la cuota de socios que serian 20 € anuales, del mismo modo aceptamos cualquier tipo de aportaciones sobre la cuenta que ACYSAM tiene en la Caixa..<br><br>ES47 2100 2153 3802 0025 6814<br><br>Ya que ACYSAM es una asociacion sin animo de lucro, todas las aportaciones que recibe la asociacion van destinadas a las personas con diversidad funcional usuarios del centro de dia \"Dr, Fernando Arce\".<br><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Quieres saber mas?</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "text-align": "left",
+              "font-size": "32px"
+            }
+          },
+          "_anchor": "header1-u"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/descarga-265x129.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "lacaixa.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><a href=\"http://www.fundacionasilo.com/\" class=\"text-gray\">Fundación Asilo Torrelavega</a><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\"><br></a><a href=\"page9.html\" class=\"text-gray\">Como colaborar</a><br><br>",
+          "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br>Teléfono: + 34 942882141<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-v"
         }
       ]
     }

@@ -179,3 +179,24 @@
   text-align: left;
   font-size: 30px;
 }
+
+#ext_menu-t .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-t .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-t .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-t .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+}
+#header1-u H1 {
+  text-align: left;
+  font-size: 32px;
+}
