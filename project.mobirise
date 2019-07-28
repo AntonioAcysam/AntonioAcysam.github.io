@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-09_2336",
-    "currentPage": "page9.html",
+    "currentPage": "ctividades.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1047,7 +1047,12 @@
             "Tema"
           ],
           "_name": "slider",
-          "_anchor": "slider-y"
+          "_anchor": "slider-y",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
