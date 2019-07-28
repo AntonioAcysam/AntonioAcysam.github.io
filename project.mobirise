@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-09_2336",
-    "currentPage": "index.html",
+    "currentPage": "colaborar.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1194,7 +1194,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Colaborar",
-          "text": "La principal forma de colaborar es pagando la cuota de socios que serian 20 € anuales, del mismo modo aceptamos cualquier tipo de aportaciones sobre la cuenta que ACYSAM tiene en la Caixa.<br><br>ES47 2100 2153 3802 0025 6814<br><br>Ya que ACYSAM es una asociacion sin animo de lucro, todas las aportaciones que recibe van destinadas a las personas con diversidad funcional usuarios del C.E.E. Fernando Arce de Torrelavega.<br><br>",
+          "text": "La principal forma de colaborar es pagando la cuota de socios, que serian 20 € anuales, del mismo modo aceptamos cualquier tipo de aportaciones sobre la cuenta que ACYSAM tiene en la Caixa.<br><br>ES47 2100 2153 3802 0025 6814<br><br>Ya que ACYSAM es una asociacion sin animo de lucro, todas las aportaciones que recibe van destinadas a las personas con diversidad funcional usuarios del C.E.E. Fernando Arce de Torrelavega.<br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Quieres saber mas?</a>",
           "_tags": [
             "Tema"
@@ -1203,7 +1203,7 @@
           "_styles": {
             "H1": {
               "text-align": "left",
-              "font-size": "32px"
+              "font-size": "30px"
             }
           },
           "_anchor": "header1-u"
