@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-09_2336",
-    "currentPage": "contacto.html",
+    "currentPage": "lacaixa.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1186,7 +1186,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/descarga-1-261x193.png",
+              "src": "@PROJECT_PATH@/assets/images/descarga-1-322x157.png",
               "link": "",
               "alt": "",
               "title": ""
