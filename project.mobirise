@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-09_2336",
-    "currentPage": "servicios.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -113,7 +113,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
-          "title": "<br>Fines",
+          "title": "Fines de ACYSAM",
           "text": "Promover la creación de centros y servicios para la atencion a personas con diversidad funcional.<br>Impulsar la intervención pública en la mejora de los servicios necesarios.<br>Colaborar en la financiación de los mismos directamente o mediante la captación de ayudas de otras personas o entidades.<br>Servir de mediador permanente entre la Fundación Asilo de Torrelavega, titular de centros y servicios de atención a minusvalidos y los padres o tutores de las personas atendidas por ellos.<br>Promover y facilitar actividades culturales y artisticas.<br>Fomentar actividades de tiempo libre.<br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Quieres saber mas?</a>",
           "_tags": [
@@ -123,7 +123,7 @@
           "_styles": {
             "H1": {
               "text-align": "left",
-              "font-size": "36px"
+              "font-size": "30px"
             }
           },
           "_anchor": "header1-9"
@@ -1364,7 +1364,7 @@
           "_styles": {
             "H1": {
               "text-align": "left",
-              "font-size": "32px"
+              "font-size": "30px"
             }
           }
         },
@@ -1497,7 +1497,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
-          "title": "&nbsp;<br>Colaborar",
+          "title": "&nbsp;Colaborar",
           "text": "La principal forma de colaborar es pagando la cuota de socios que serian 20 € anuales, del mismo modo aceptamos cualquier tipo de aportaciones sobre la cuenta que ACYSAM tiene en la Caixa.<br><br>ES47 2100 2153 3802 0025 6814<br><br>Ya que ACYSAM es una asociacion sin animo de lucro, todas las aportaciones que recibe la asociacion van destinadas a las personas con diversidad funcional usuarios del C.E.E. Fernando Arce de Torrelavega.<br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Quieres saber mas?</a>",
           "_tags": [
