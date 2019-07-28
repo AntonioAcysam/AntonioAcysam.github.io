@@ -79,26 +79,6 @@
   font-size: 30px;
 }
 
-#ext_menu-c .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-c .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-c .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#ext_menu-c .mbr-brand__name a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 30px;
-}
-#header1-d H1 {
-  text-align: left;
-}
-
 #ext_menu-e .mbr-brand__name {
   font-size: 16px;
 }
@@ -114,26 +94,6 @@
 #ext_menu-e .mbr-brand__name a {
   font-family: 'Ubuntu', sans-serif;
   font-size: 30px;
-}
-
-#ext_menu-u .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-u.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-u .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-u .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#ext_menu-u .mbr-brand__name a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 30px;
-}
-#slider-y P {
-  text-align: left;
 }
 
 #ext_menu-t .mbr-brand__name {
@@ -202,4 +162,44 @@
 #header1-u H1 {
   text-align: left;
   font-size: 32px;
+}
+
+#ext_menu-c .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-c .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-c .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-c .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+}
+#header1-d H1 {
+  text-align: left;
+}
+
+#ext_menu-u .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-u.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-u .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-u .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-u .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+}
+#slider-y P {
+  text-align: left;
 }

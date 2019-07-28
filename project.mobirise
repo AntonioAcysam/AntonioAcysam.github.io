@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-09_2336",
-    "currentPage": "servicios.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -663,135 +663,6 @@
         }
       ]
     },
-    "actividades.html": {
-      "settings": {
-        "title": "Actividades2",
-        "meta_descr": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida por padres preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 7
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": false,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">COLABORAR</a></li>",
-          "_tags": [
-            "Tema"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "30px"
-            }
-          },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mapa.html\">MAPA</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Acysam",
-              "link": "page5.html#header1-p",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACYSAM</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-c"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/proyectoresdenciafernandoarce2-600x450.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": 0.5
-          },
-          "title": "ACTIVIDADES",
-          "text": "El alcalde de Torrelavega, José Manuel Cruz Viadero, junto al concejal de Deportes, Jesús Sánchez, y las presidentas de la AMPA y ACYSAM del CEE Fernando Arce, Lorena González y Ana María Quijano, ha presentado la Marcha Solidaria 'Residencia Fernando Arce. Por ti y para ti'.",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "header1",
-          "_styles": {
-            "H1": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "header1-d"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "outside": false,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-t"
-        }
-      ]
-    },
     "mapa.html": {
       "settings": {
         "title": "Mapa",
@@ -873,186 +744,6 @@
           ],
           "_name": "map1",
           "_anchor": "map1-m"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/descarga-265x129.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "lacaixa.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><a href=\"http://www.fundacionasilo.com/\" class=\"text-gray\">Fundación Asilo Torrelavega</a><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\"><br></a><a href=\"page9.html\" class=\"text-gray\">Como colaborar</a><br><br>",
-          "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br><a href=\"contacto.html\" class=\"text-gray\">Quieres saber mas?</a><br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-s"
-        }
-      ]
-    },
-    "ctividades.html": {
-      "settings": {
-        "title": "Actividades",
-        "meta_descr": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida por padres preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 8
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": false,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">COLABORAR</a></li>",
-          "_tags": [
-            "Tema"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "30px"
-            }
-          },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mapa.html\">MAPA</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Acysam",
-              "link": "page5.html#header1-p",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACYSAM</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-u"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "autoplay": false,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/2018120718172882506-989x559.jpeg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "Calendario Solidario 2019, con Poty",
-                "contentAlign": "right",
-                "text": "Las Asociaciones ACYSAM y AMPA del colegio Fernando Arce de Torrelavega ha editado un calendario solidario, protagonizado por el bailarín y coreógrafo torrelaveguense Javier Castillo 'Poty', con el que se recaudarán fondos para continuar diversos proyectos \"ilusionantes y saludables\" en el ámbito de las personas con discapacidad.\n<br>\n<br>Al acto de presentación, han asistido el alcalde, José Manuel Cruz Viadero; el primer teniente de alcalde, Javier López Estrada; Poty y Ana María Quijano y Lara Gutiérrez, representantes de ACYSAM y AMPA.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/firma-convenio-474x267.png",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "Convenio de colaboración",
-                "contentAlign": "right",
-                "text": "Ayuntamiento de Reocin, 16/05/2019.<br>Firma del Convenio de colaboración entre el Ayuntamiento de Reocín y la Asociación de padres Acysam. Por parte del Ayuntamiento intervino su Alcalde, Don Pablo Diestro, y por parte de la Asociación su Presidenta Doña Ana María Quijano.<br>La firma del Convenio es fruto de la constante colaboración entre ambas Entidades, que tendrá continuidad y se profundizará en el futuro.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/fernando-arce-celebrara-inauguracion-residencia-ediima20160422-0198-5-643x362.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "Marcha solidaria",
-                "contentAlign": "right",
-                "text": "Ayuntamiento de Torrelavega,&nbsp;22/04/2016<br>Las presidentas de ACYSAM y AMPA del Colegio de Educación Especial Fernando Arce, Ana María Quijano y Lorena González, junto al alcalde de torrelavega, José Manuel Cruz Viadero, y al concejal de Deportes, Jesús Sánchez, presentando la convocatoria de la marcha solidaria por Torrelavega, que tuvo lugar el 7 de mayo con motivo de la inauguración de la nueva residencia, para visibilizar a las personas con discapacidad.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/rp-hoky-popi-music-solidario-1280x720.jpeg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "El festival Hoky Popi Music 2018",
-                "contentAlign": "right",
-                "text": "Ayuntamiento de Torrelavega,&nbsp;20/07/2018.<br>Presentacion con la concejala de Juventud y Festejos, Patricia Portilla; el responsable de Mouro Producciones, Guillermo Vega; el director del Área de Negocio de <b>CaixaBank</b> en Cantabria, Francisco Ortiz, así como Ana María Quijano, presidenta de ACYSAM.<br>La recaudación del festival fue dirigida a desarrollar actividades ocio y tiempo libre para los jóvenes a los que atiende ACYSAM, estos programas son esenciales para el desarrollo personal y les permiten mejoran la autonomía y ayudan a adquirir conocimientos, habilidades y capacidad de decisión.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-y",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
         },
         {
           "_params": {
@@ -1414,10 +1105,10 @@
         }
       ]
     },
-    "page9.html": {
+    "colaborar.html": {
       "settings": {
         "title": "colaborar",
-        "meta_descr": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida por padres preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega",
+        "meta_descr": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida por padres preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega, diversidad funcional.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1555,6 +1246,315 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-v"
+        }
+      ]
+    },
+    "actividades2.html": {
+      "settings": {
+        "title": "Actividades2",
+        "meta_descr": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida por padres preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">COLABORAR</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mapa.html\">MAPA</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Acysam",
+              "link": "page5.html#header1-p",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACYSAM</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-c"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/proyectoresdenciafernandoarce2-600x450.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "ACTIVIDADES",
+          "text": "El alcalde de Torrelavega, José Manuel Cruz Viadero, junto al concejal de Deportes, Jesús Sánchez, y las presidentas de la AMPA y ACYSAM del CEE Fernando Arce, Lorena González y Ana María Quijano, ha presentado la Marcha Solidaria 'Residencia Fernando Arce. Por ti y para ti'.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header1-d"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-t"
+        }
+      ]
+    },
+    "actividades.html": {
+      "settings": {
+        "title": "Actividades",
+        "meta_descr": "Asociación de Centros y Servicios de Atención al Minusválido, fue constituida por padres preocupados por la calidad de vida y por el futuro de sus hijos, adultos y discapacitados, usuarios del Fernando Arce, Centro dependiente de la Fundación Asilo de Torrelavega",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 8
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">COLABORAR</a></li>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">ASOCIACÍON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"servicios.html\">SERVICIOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"imagenes.html\">IMAGENES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"ctividades.html\">ACTIVIDADES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mapa.html\">MAPA</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/acysam1-1-92x92.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Acysam",
+              "link": "page5.html#header1-p",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ACYSAM</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-u"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/2018120718172882506-989x559.jpeg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Calendario Solidario 2019, con Poty",
+                "contentAlign": "right",
+                "text": "Las Asociaciones ACYSAM y AMPA del colegio Fernando Arce de Torrelavega ha editado un calendario solidario, protagonizado por el bailarín y coreógrafo torrelaveguense Javier Castillo 'Poty', con el que se recaudarán fondos para continuar diversos proyectos \"ilusionantes y saludables\" en el ámbito de las personas con discapacidad.\n<br>\n<br>Al acto de presentación, han asistido el alcalde, José Manuel Cruz Viadero; el primer teniente de alcalde, Javier López Estrada; Poty y Ana María Quijano y Lara Gutiérrez, representantes de ACYSAM y AMPA.<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/firma-convenio-474x267.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Convenio de colaboración",
+                "contentAlign": "right",
+                "text": "Ayuntamiento de Reocin, 16/05/2019.<br>Firma del Convenio de colaboración entre el Ayuntamiento de Reocín y la Asociación de padres Acysam. Por parte del Ayuntamiento intervino su Alcalde, Don Pablo Diestro, y por parte de la Asociación su Presidenta Doña Ana María Quijano.<br>La firma del Convenio es fruto de la constante colaboración entre ambas Entidades, que tendrá continuidad y se profundizará en el futuro.<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fernando-arce-celebrara-inauguracion-residencia-ediima20160422-0198-5-643x362.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Marcha solidaria",
+                "contentAlign": "right",
+                "text": "Ayuntamiento de Torrelavega,&nbsp;22/04/2016<br>Las presidentas de ACYSAM y AMPA del Colegio de Educación Especial Fernando Arce, Ana María Quijano y Lorena González, junto al alcalde de torrelavega, José Manuel Cruz Viadero, y al concejal de Deportes, Jesús Sánchez, presentando la convocatoria de la marcha solidaria por Torrelavega, que tuvo lugar el 7 de mayo con motivo de la inauguración de la nueva residencia, para visibilizar a las personas con discapacidad.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rp-hoky-popi-music-solidario-1280x720.jpeg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "El festival Hoky Popi Music 2018",
+                "contentAlign": "right",
+                "text": "Ayuntamiento de Torrelavega,&nbsp;20/07/2018.<br>Presentacion con la concejala de Juventud y Festejos, Patricia Portilla; el responsable de Mouro Producciones, Guillermo Vega; el director del Área de Negocio de <b>CaixaBank</b> en Cantabria, Francisco Ortiz, así como Ana María Quijano, presidenta de ACYSAM.<br>La recaudación del festival fue dirigida a desarrollar actividades ocio y tiempo libre para los jóvenes a los que atiende ACYSAM, estos programas son esenciales para el desarrollo personal y les permiten mejoran la autonomía y ayudan a adquirir conocimientos, habilidades y capacidad de decisión.<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-y",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/descarga-265x129.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "lacaixa.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>COLABORACIONES</strong><br><a href=\"lacaixa.html\" class=\"text-gray\">Obra Social la Caixa</a><br><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\">Ayuntamiento de Reocín</a><br><a href=\"http://www.fundacionasilo.com/\" class=\"text-gray\">Fundación Asilo Torrelavega</a><a href=\"https://ayto-reocin.com/2019/05/16/la-firma-del-convenio-de-colaboracion-entre-el-ayuntamiento-de-reocin-y-la-asociacion-de-padres-acysam/\" class=\"text-gray\" target=\"_blank\"><br></a><a href=\"page9.html\" class=\"text-gray\">Como colaborar</a><br><br>",
+          "text2": "<strong>CONTACTO</strong><br>\nEmail: info@acysam.com<br><a href=\"contacto.html\" class=\"text-gray\">Quieres saber mas?</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>ENLACES</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.serviciossocialescantabria.org/index.php?page=informacion-ley-dependencia\" target=\"_blank\">ICASS</a></li><li><a href=\"http://www.plenainclusioncantabria.org/\" target=\"_blank\" class=\"text-gray\">Plena inclusion Cantabria</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.imserso.es/imserso_01/index.htm\" target=\"_blank\">IMSERSO</a></li></ul>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-s"
         }
       ]
     }
