@@ -16,9 +16,8 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 30px;
 }
-#header1-9 H1 {
-  text-align: left;
-  font-size: 30px;
+#social-buttons1-11 .mbr-header__text {
+  color: #ffffff;
 }
 
 #ext_menu-o .mbr-brand__name {
@@ -39,6 +38,9 @@
 }
 #header1-p H1 {
   text-align: left;
+}
+#social-buttons1-13 .mbr-header__text {
+  color: #ffffff;
 }
 
 #ext_menu-q .mbr-brand__name {
@@ -61,7 +63,13 @@
   text-align: left;
   font-size: 32px;
 }
+#social-buttons1-15 .mbr-header__text {
+  color: #ffffff;
+}
 
+#instagram-feed-block-x .inst__title {
+  color: #ffffff;
+}
 #ext_menu-a .mbr-brand__name {
   font-size: 16px;
 }
@@ -77,6 +85,9 @@
 #ext_menu-a .mbr-brand__name a {
   font-family: 'Ubuntu', sans-serif;
   font-size: 30px;
+}
+#social-buttons1-16 .mbr-header__text {
+  color: #ffffff;
 }
 
 #ext_menu-e .mbr-brand__name {
@@ -94,6 +105,9 @@
 #ext_menu-e .mbr-brand__name a {
   font-family: 'Ubuntu', sans-serif;
   font-size: 30px;
+}
+#social-buttons1-18 .mbr-header__text {
+  color: #ffffff;
 }
 
 #ext_menu-t .mbr-brand__name {
@@ -121,6 +135,9 @@
 #msg-box4-w .mbr-article {
   color: #ffffff;
 }
+#social-buttons1-14 .mbr-header__text {
+  color: #ffffff;
+}
 
 #ext_menu-5 .mbr-brand__name {
   font-size: 16px;
@@ -142,6 +159,9 @@
   text-align: left;
   font-size: 30px;
 }
+#social-buttons1-u .mbr-header__text {
+  color: #ffffff;
+}
 
 #ext_menu-t .mbr-brand__name {
   font-size: 16px;
@@ -159,29 +179,8 @@
   font-family: 'Ubuntu', sans-serif;
   font-size: 30px;
 }
-#header1-u H1 {
-  text-align: left;
-  font-size: 30px;
-}
-
-#ext_menu-c .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-c .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-c .mbr-navbar__hamburger {
+#social-buttons1-12 .mbr-header__text {
   color: #ffffff;
-}
-#ext_menu-c .mbr-brand__name a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 30px;
-}
-#header1-d H1 {
-  text-align: left;
 }
 
 #ext_menu-u .mbr-brand__name {
@@ -202,4 +201,7 @@
 }
 #slider-y P {
   text-align: left;
+}
+#social-buttons1-17 .mbr-header__text {
+  color: #ffffff;
 }
